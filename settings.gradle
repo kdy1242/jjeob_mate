@@ -1,0 +1,2 @@
+rootProject.name = "jjeob_mate"
+include ':app'
